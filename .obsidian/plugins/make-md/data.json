@@ -37,18 +37,19 @@
   "expandedFolders": {
     "Mémorio - Template": [
       "Projects - Demo Project",
-      "1 OBJECTIFS",
       "4 RESSOURCES/Pièces Jointes",
       "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Adventurer",
       "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Guides",
       "2 PROJETS/Projets Long-Terme/P. Long Terme 1 - Mémorio",
-      "3 CASQUETTES",
       "3 CASQUETTES/°Obsidian",
       "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test",
       "0 INBOX",
+      "2 PROJETS/Projets Long-Terme",
+      "1 OBJECTIFS",
+      "5 ARCHIVES",
+      "5 ARCHIVES/Exemple de Dossier Archivé",
       "/",
-      "2 PROJETS",
-      "2 PROJETS/Projets Long-Terme"
+      "6 NOTES PERMANENTES"
     ]
   },
   "expandedSpaces": [
@@ -88,7 +89,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691858143552,
+  "spacesAutoBackupLast": 1691880250625,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
