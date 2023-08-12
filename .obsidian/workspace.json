@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "546a682ab41236d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "706e3615e00e5bbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f9a978e24be3754",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3875ca43429b9de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9be93bf86f1081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02a636232566e2fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e8acfe1b3ce252c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e59dc7c21ba8b5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "facc0bfa5ddcd8d3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fde72d37d0ef1a36",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7243e7385e82122",
+        "type": "tabs",
+        "dimension": 58.445945945945944,
+        "children": [
+          {
+            "id": "4726ec47fe4e6755",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0438616585563e86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa803cdd2e7d1ba6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3049a89c4c4f8e49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24c9ca7c6cc7fb0b",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "224b536612fb1ba2",
+        "type": "tabs",
+        "dimension": 41.55405405405405,
+        "children": [
+          {
+            "id": "573ff483c288202b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "notion-like-tables:Create new loom": false,
+      "meld-encrypt:Create new encrypted note": false,
+      "dbfolder:Créer une nouvelle table de données": false,
+      "dangerzone-writing-plugin:Dangerzone Writing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "5f9a978e24be3754",
+  "lastOpenFiles": [
+    "Home Page.md",
+    "2 PROJETS/Projets Long-Terme/P. Long Terme 1 - Mémorio/P. Long Terme 1 - Mémorio.md",
+    "0 INBOX/Sans titre.md",
+    "2 PROJETS/Projets Long-Terme/P. Long Terme 1 - Mémorio/Untitled mindmap.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Untitled mindmap.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Sans titre.md",
+    "2 PROJETS/Projets Long-Terme/P. Long Terme 1 - Mémorio/Mémorio - Mindmap-Timeline.md",
+    "2 PROJETS/Projets Long-Terme/Mémorio - Timeline-Carte Mentale.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Test.md",
+    "2 PROJETS/Projets Long-Terme/P. Long Terme 1 - Mémorio",
+    "2 PROJETS/Projets Long-Terme",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage spécifique.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Test images.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Projects - Demo Project/Test Projet.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "0 INBOX/Obsidian - Guide de formatage spécifique.md^44d864.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test",
+    "3 CASQUETTES/°Obsidian/Sans titre.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Formatting/Blockquote.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Formatting/Format your notes.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Guides/Create your first note.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Guides/Get started with Obsidian.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Vault is just a local folder.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Adventurer/No prior experience.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Start Here.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de Formatage spécifique.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Guides/Link notes.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Guides/Create a vault.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Formatting/Task.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Guides",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Formatting",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Adventurer",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique",
+    "3 CASQUETTES/°Obsidian/Obsidian Sandbox/Guides",
+    "3 CASQUETTES/°Obsidian/Obsidian Sandbox/Formatting",
+    "3 CASQUETTES/°Obsidian/Obsidian Sandbox/Adventurer",
+    "4 RESSOURCES/Pièces Jointes/Vagues.png",
+    "4 RESSOURCES/Pièces Jointes/duotone/baseball-duotone.svg",
+    "4 RESSOURCES/Pièces Jointes/duotone/barbell-duotone.svg",
+    "4 RESSOURCES/Pièces Jointes/duotone/bandaids-duotone.svg",
+    "4 RESSOURCES/Pièces Jointes/duotone/arrows-out-line-vertical-duotone.svg",
+    "4 RESSOURCES/Pièces Jointes/duotone/arrows-down-up-duotone.svg",
+    "4 RESSOURCES/Pièces Jointes/duotone/arrows-clockwise-duotone.svg",
+    "4 RESSOURCES/Pièces Jointes/duotone/arrow-up-right-duotone.svg",
+    "4 RESSOURCES/Pièces Jointes/Diary 2.png",
+    "4 RESSOURCES/Pièces Jointes/obsidian-logo-gradient.svg"
+  ]
+}

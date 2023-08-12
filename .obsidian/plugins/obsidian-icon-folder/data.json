@@ -1,0 +1,32 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarArchiveBoxDuotone",
+      "FarHouseLineDuotone",
+      "FarUserCircleDuotone",
+      "FarBagDuotone",
+      "FarPottedPlantDuotone"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "0 INBOX": "FarArchiveBoxDuotone",
+  "1 OBJECTIFS": "FarTargetDuotone",
+  "2 PROJETS": "FarCropDuotone",
+  "3 CASQUETTES": "FarUserCircleDuotone",
+  "5 ARCHIVES": "FarArchiveDuotone",
+  "4 RESSOURCES/Pièces Jointes/duotone": "FarBagDuotone",
+  "Home Page.md": "FarHouseLineDuotone"
+}

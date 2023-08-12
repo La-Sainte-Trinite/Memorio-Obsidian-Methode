@@ -1,0 +1,14 @@
+{
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0 INBOX",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "4 RESSOURCES/Pièces Jointes",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false
+}
