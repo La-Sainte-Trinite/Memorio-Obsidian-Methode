@@ -16,7 +16,6 @@
   "obsidian-smart-typography",
   "meld-encrypt",
   "better-fn",
-  "obsidian-drag-n-drop-plugin",
   "obsidian-plugin-groups",
   "obsidian-wikipedia",
   "dbfolder",
@@ -36,5 +35,13 @@
   "folder-note-core",
   "obsidian-importer",
   "obsidian-kanban",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "footlinks",
+  "obsidian-focus-mode",
+  "obsidian-tasks-plugin",
+  "obsidian-outliner",
+  "various-complements",
+  "editing-toolbar",
+  "hotkeysplus-obsidian",
+  "nldates-obsidian"
 ]

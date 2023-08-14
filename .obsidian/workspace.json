@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 NOTES PERMANENTES/Exemple de Sujet/Exemple de note permanente.md",
+                "file": "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Test.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bdce76a940ca687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +101,7 @@
       {
         "id": "b7243e7385e82122",
         "type": "tabs",
-        "dimension": 58.445945945945944,
+        "dimension": 61.62551440329218,
         "children": [
           {
             "id": "4726ec47fe4e6755",
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 NOTES PERMANENTES/Exemple de Sujet/Exemple de note permanente.md"
+                "file": "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Test.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 NOTES PERMANENTES/Exemple de Sujet/Exemple de note permanente.md",
+                "file": "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 NOTES PERMANENTES/Exemple de Sujet/Exemple de note permanente.md",
+                "file": "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +162,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "224b536612fb1ba2",
+        "id": "435b2c12758cecda",
         "type": "tabs",
-        "dimension": 41.55405405405405,
+        "dimension": 38.37448559670782,
         "children": [
           {
             "id": "573ff483c288202b",
@@ -168,10 +181,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "footlinks:Footlinks": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "audio-recorder:Démarrer / arrêter l'enregistrement": false,
       "graph:Ouvrir la vue graphique": false,
@@ -191,14 +205,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "workspaces:Gérer les espaces de travail": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "facc0bfa5ddcd8d3",
+  "active": "5f9a978e24be3754",
   "lastOpenFiles": [
+    "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Test images.md",
+    "0 INBOX/2023-08-13.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Test.md",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage spécifique.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Book notes.md",
+    "3 CASQUETTES/°Obsidian/°Obsidian.md",
+    "README.md",
+    "3 CASQUETTES/Test Loom.loom",
+    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Formatting/Task.md",
+    "6 NOTES PERMANENTES/Exemple de Sujet/Exemple de note permanente.md",
     "6 NOTES PERMANENTES/Exemple de Sujet",
     "5 ARCHIVES/Exemple de Dossier Archivé/Exemple de note archivée.md",
-    "6 NOTES PERMANENTES/Exemple de Sujet/Exemple de note permanente.md",
     "1 OBJECTIFS/Exemple/Exemple.md",
     "5 ARCHIVES/Exemple de Dossier Archivé",
     "1 OBJECTIFS/Exemple",
@@ -210,11 +234,8 @@
     "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Sans titre.md",
     "2 PROJETS/Projets Long-Terme/P. Long Terme 1 - Mémorio/Mémorio - Mindmap-Timeline.md",
     "2 PROJETS/Projets Long-Terme/Mémorio - Timeline-Carte Mentale.md",
-    "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Test.md",
     "2 PROJETS/Projets Long-Terme/P. Long Terme 1 - Mémorio",
     "2 PROJETS/Projets Long-Terme",
-    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage spécifique.md",
-    "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Test images.md",
     "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Projects - Demo Project/Test Projet.md",
     "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "0 INBOX/Obsidian - Guide de formatage spécifique.md^44d864.md",
@@ -223,15 +244,9 @@
     "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Formatting/Blockquote.md",
     "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Formatting/Format your notes.md",
     "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Guides/Create your first note.md",
-    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Guides/Get started with Obsidian.md",
-    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Vault is just a local folder.md",
-    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Adventurer/No prior experience.md",
-    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Start Here.md",
     "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Guides",
     "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Formatting",
     "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique/Adventurer",
-    "3 CASQUETTES/°Obsidian/Obsidian - Guide de formatage basique",
-    "3 CASQUETTES/°Obsidian/Obsidian Sandbox/Guides",
     "4 RESSOURCES/Pièces Jointes/Vagues.png",
     "4 RESSOURCES/Pièces Jointes/duotone/baseball-duotone.svg",
     "4 RESSOURCES/Pièces Jointes/duotone/barbell-duotone.svg",

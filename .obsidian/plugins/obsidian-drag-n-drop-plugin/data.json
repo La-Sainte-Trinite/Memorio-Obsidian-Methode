@@ -1,6 +1,0 @@
-{
-  "simple_same_pane": "move",
-  "simple_different_panes": "move",
-  "shift": "copy",
-  "alt": "move"
-}

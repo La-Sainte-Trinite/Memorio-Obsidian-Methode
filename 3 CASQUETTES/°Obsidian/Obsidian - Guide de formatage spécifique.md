@@ -17,10 +17,9 @@ Je suis un block
 ![[Diary.png]] ![[Diary.png]] ![[Diary.png]] ![[Diary.png]]
 %%Je suis 4 imagent misent en ligne, pour me voir il faut être en mode lecture/aperçu%%
 
- ![[Diary.png|lright|400]]  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+ ![[Diary.png|lright|400]]  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamc<font color="#00b0f0">o laboris nisi ut aliquip ex ea commodo conse</font>quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur <span style="background:#ff4d4f">sint occaecat cupidatat non proident, sunt in culpa qui</span> officia deserunt mollit anim id est laborum."
 ![[Vagues.png]] 
 
 # Nommage des notes 
 > [!ATTENTION]
 > ⚠️ Éviter de nommer deux notes différentes avec le même nom, car pour palier à ce problème Obsidian fera référence à cette note en utilisant le chemin absolu vers cette note et non le chemin le plus court. Cela signifie que si la note est bougé, le rétrolien ne pointera plus vers celle ci. ⚠️
-

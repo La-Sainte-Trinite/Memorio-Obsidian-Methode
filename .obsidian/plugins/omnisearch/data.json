@@ -5,7 +5,7 @@
   "indexedFileTypes": [],
   "PDFIndexing": false,
   "imagesIndexing": false,
-  "unsupportedFilesIndexing": "no",
+  "unsupportedFilesIndexing": "default",
   "splitCamelCase": false,
   "openInNewPane": false,
   "ribbonIcon": true,
