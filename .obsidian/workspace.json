@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "facc0bfa5ddcd8d3",
+            "id": "393eaa1363d64e94",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "footlinks:Footlinks": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "audio-recorder:Démarrer / arrêter l'enregistrement": false,
       "graph:Ouvrir la vue graphique": false,
@@ -195,20 +194,21 @@
       "templates:Insérer le modèle": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "command-palette:Ouvrir la palette de commandes": false,
+      "workspaces:Gérer les espaces de travail": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "omnisearch:Omnisearch": false,
       "notion-like-tables:Create new loom": false,
       "meld-encrypt:Create new encrypted note": false,
       "dbfolder:Créer une nouvelle table de données": false,
       "dangerzone-writing-plugin:Dangerzone Writing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "workspaces:Gérer les espaces de travail": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
+      "footlinks:Footlinks": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5f9a978e24be3754",
