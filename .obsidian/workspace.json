@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "facc0bfa5ddcd8d3",
+            "id": "393eaa1363d64e94",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -196,7 +196,6 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "workspaces:Gérer les espaces de travail": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "omnisearch:Omnisearch": false,
@@ -208,7 +207,8 @@
       "obsidian-projects:Open projects": false,
       "obsidian-importer:Open Importer": false,
       "footlinks:Footlinks": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5f9a978e24be3754",
