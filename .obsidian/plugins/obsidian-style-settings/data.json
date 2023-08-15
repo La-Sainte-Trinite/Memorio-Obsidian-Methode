@@ -27,10 +27,7 @@
   "anuppuccin-theme-settings@@anp-background-image-toggle": true,
   "anuppuccin-theme-settings@@anp-background-image-light": "url(\"https://i.imgur.com/j5khQiv.png\")",
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-green",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": false,
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-maroon",
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border",
   "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
   "anuppuccin-theme-settings@@anp-speech-bubble": true,
@@ -78,5 +75,8 @@
   "anuppuccin-theme-settings@@ctp-custom-subtext1@@dark": "#FFFFFF",
   "anuppuccin-theme-settings@@ctp-custom-subtext0@@dark": "#FFFFFF",
   "anuppuccin-theme-settings@@ctp-custom-text@@dark": "#C3C3C3",
-  "anuppuccin-theme-settings@@anp-card-layout-padding": 3
+  "anuppuccin-theme-settings@@anp-card-layout-padding": 3,
+  "anuppuccin-theme-settings@@anp-header-margin-value": 15,
+  "anuppuccin-theme-settings@@h1-size": 3,
+  "anuppuccin-theme-settings@@anp-h1-divider": true
 }

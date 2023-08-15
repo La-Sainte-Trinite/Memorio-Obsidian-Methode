@@ -1,2 +1,4 @@
-# Memorio-Obsidian
-Coffre Obsidian pour Mémorio servant de base. Utilisé dans le cadre de la gestions des connaissances?
+# Préambule
+Nous sommes un groupe d’élève s’étant lancé comme mission de pouvoir améliorer l’apprentissage des cours. Il s’agissait initialement d’une méthode que j’ai crée pour moi afin d’avoir un tracé à suivre, étant un peu maniaque et aimant que tout soit prévu et planifié. Méthode que j’ai ensuite décidé de partager à mes amis d’abord et sur GitHub ensuite, me disant que ça pourrais potentiellement en aider certains. De ce fait, si vous êtes intéressé et/ou que vous avez des retours à nous faire, n’ésitez pas à nous en faire part.
+## ⚠️ Disclamer ⚠️
+Nous ne sommes en aucun cas des experts de la mémoire et du cerveau, et cette méthode est simplement là a but indicatif. Pour créer cette méthode on c’est basé sur différentes techniques qui ont fait leurs preuves tels que la prise de note Cornell, les répétitions espacées, les cartes mentales etc… La plus value que l’on a essayé d’ajouter ici c’est la façon d’ont on fait interagir ces différentes méthodes et la façon d’ont sont concrètement géré les différents types de fichiers/feuilles. 
